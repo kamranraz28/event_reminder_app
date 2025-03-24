@@ -25,7 +25,7 @@ PHP = 8.0 or Above
 Laravel = 10
 
 Clone the Repository:
-git clone https://github.com/kamranraz28/covid-vaccine-registration.git
+git clone https://github.com/kamranraz28/event_reminder_app.git
 
 Install Dependencies: Ensure that you have Composer installed, then run:
 composer install
