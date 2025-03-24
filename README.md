@@ -6,7 +6,7 @@ Name: MD Kamran Hosan
 E-mail: mdkamranhosan98@gmail.com
 Phone: +880 1609758377
 
-Live App: Event Reminder App
+Live App: https://b68a-103-59-179-1.ngrok-free.app/
 
 Instructions Before Using the App:
 
