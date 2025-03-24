@@ -45,4 +45,6 @@ Visit the App: Open your browser and visit http://127.0.0.1:8000 to access the a
 To run the scheduler:
 php artisan schedule:work
 
+Please Read**: php artisan schedule:work will run the required schedule which will sync cached event to database in every minute as well as  send reminder before the event day. If you don't run that schedule try to store cacche schedule when internet is there by tapping Refresh Cache.
+
 Now you're all set to run the Event Reminder App on your local machine! Let me know if you need further assistance.
