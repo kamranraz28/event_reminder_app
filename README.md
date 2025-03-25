@@ -8,6 +8,8 @@ Phone: +880 1609758377
 
 Live App: https://b68a-103-59-179-1.ngrok-free.app/
 
+Important Note: This free live app won't allow you to work offline cause ngrok's limitations. Run it in your own machine instead. But you can check other online functionalities here.
+
 Instructions Before Using the App:
 
 Access Permission: Since this is hosted on ngrok (free hosting), you’ll be prompted with a permission request. Click on “Visit Site” to access the app.
